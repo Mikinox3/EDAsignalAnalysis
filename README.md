@@ -4,3 +4,5 @@ Neurokit function eda_preprocess extracts from the raw signal the SCL and SCR, d
 The spectral power of the signal and AUC were also calculated.
 
 See https://neuropsychology.github.io/NeuroKit/ for more info.
+
+Please note : This script has been created for a very specific experimental paradigm with precise triggers created during EDA recording.
